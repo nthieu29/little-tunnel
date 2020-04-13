@@ -1,5 +1,6 @@
 # little-tunnel
-Simple and easy to use local proxy which help you visit websites blocked by your ISP.
+Simple, efficient and easy to use local proxy which help you visit websites blocked by your ISP.
+[Phiên bản tiếng Việt xem tại đây.](https://github.com/ngotrunghieu29/little-tunnel/blob/master/README.vi.md)
 ## How does it work
 Little Tunnel work as a local proxy in your computer, it processes the traffic of your browser to make your ISP can not understand or catch that traffic --> you could access the website you want.
 ## Why use Little Tunnel
@@ -29,7 +30,7 @@ Little Tunnel work as a local proxy in your computer, it processes the traffic o
 ## Tips
 1. **Use HTTPS whenever possible** because HTTPS will make harder for your ISP to block you. Input _https://_ as a prefix in address URL.
 2. Little Tunnel automatically convert your site to lowercase and keep it distinct to maximize the process performance.
-3. In the same directory of Little Tunnel, there is a config file called sites.txt. Little Tunnel read data from this file so you can add/remove site you want with your favorite text editor. Remember to restart Little Tunnel if you modify that file manually.
+3. In the same directory of Little Tunnel, there is a config file called _sites.txt_. Little Tunnel read data from this file so you can add/remove site you want with your favorite text editor. Remember to restart Little Tunnel if you modify that file manually.
 ## It does not work?
 1. Try use https by adding _https://_ as a prefix in your address bar.
 2. Maybe your ISP block the website you want to visit by IP address or other techniques which Little Tunnel could not bypass at the moment.
