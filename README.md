@@ -23,7 +23,6 @@ Little Tunnel work as a local proxy in your computer, it processes the traffic o
 
 ![Alt text](images/firefoxProxy.png?raw=true "Configure Proxy in Firefox")
 
-Note: 
 ## Tips
 1. **Use HTTPS whenever possible** because HTTPS will make harder for your ISP to block you. Input _https://_ as a prefix in address URL.
 2. Little Tunnel automatically convert your site to lowercase and keep it distinct to maximize the process performance.
