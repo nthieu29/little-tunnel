@@ -6,11 +6,13 @@ Little Tunnel work as a local proxy in your computer, it processes the traffic o
 - **Faster**: Little Tunnel built with [LittleProxy](https://github.com/adamfisk/LittleProxy) - a high performance HTTP proxy, it run in your local computer and processes only the traffic to your websites which you config. Your traffic go directly from your computer to the website you visit, not through any third-party nodes like VPN/Proxy.
 - **Stable, safe and free**: Free VPN/Proxy usually is not stable and fast. For stable and fast VPN/Proxy, you have to pay the money. Little Tunnel is free and open source. It run in your local computer so it's stable and fast.
 - **Easy to use**: We made the application not only efficient but also simple to use. We also provide comprehensive documentation for the application.
+
 ![Alt text](images/LittleTunnel.png?raw=true "Little Tunnel")
+
 ## Setup and config
 1. Install JAVA: Please download [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
 2. We need a browser with build-in proxy feature. We recommend Firefox, you can download [here](https://www.mozilla.org/en-US/firefox/new/).
-3. Download Little Tunnel and double-click to run it.
+3. Download [Little Tunnel](https://github.com/ngotrunghieu29/little-tunnel/releases/download/v1.0/little-tunnel-1.0.jar) and double-click to run it.
 4. Choose the tab **Sites Config**. Input the website you want to visit with hostname only, ignore www or http or https. For example: abc.com, example.com.
 
 ![Alt text](images/addSite.png?raw=true "Add Site")
