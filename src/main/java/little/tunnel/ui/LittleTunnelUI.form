@@ -190,7 +190,7 @@
                   <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
-                  <text value="&lt;html&gt; &lt;body style=&quot;text-align: center&quot;&gt;For more information,&lt;br&gt; how to use the app or report a bug,&lt;br&gt; please visit &lt;br&gt; &lt;a href=&quot;https://github.com/ngotrunghieu29/little-tunnel&quot;&gt;https://github.com/ngotrunghieu29/little-tunnel&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;"/>
+                  <text value="&lt;html&gt; &lt;body style=&quot;text-align: center&quot;&gt;For more information,&lt;br&gt; how to use the app or report a bug,&lt;br&gt; please visit &lt;br&gt; &lt;a href=&quot;https://github.com/nthieu29/little-tunnel&quot;&gt;https://github.com/nthieu29/little-tunnel&lt;/a&gt;&lt;/body&gt; &lt;/html&gt;"/>
                 </properties>
               </component>
               <component id="7e83d" class="javax.swing.JButton" binding="openGitHubRepoButton" default-binding="true">

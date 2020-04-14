@@ -15,7 +15,7 @@ import java.text.NumberFormat;
 import java.util.Set;
 
 public class LittleTunnelUI {
-    private static final String GIT_REPO = "https://github.com/ngotrunghieu29/little-tunnel";
+    private static final String GIT_REPO = "https://github.com/nthieu29/little-tunnel";
     private boolean serverStarted;
     private JPanel rootPanel;
     private JButton startStopServer;
