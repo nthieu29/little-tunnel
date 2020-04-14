@@ -3,7 +3,7 @@ Giải pháp đơn giản và hiệu quả giúp bạn truy cập những websit
 ## Nguyên lý hoạt động
 Little Tunnel hoạt động như một proxy trên máy tính của bạn, nó xử lý dữ liệu từ trình duyệt của bạn gửi đi, làm cho nhà mạng không thể được gói tin của bạn, từ đó không thể chặn bạn, giúp bạn có thể truy cập được website mà bạn muốn.
 ## Tại sao nên sử dụng Little Tunnel
-- **Nhanh hơnr**: Little Tunnel sử dụng [LittleProxy](https://github.com/adamfisk/LittleProxy) - đây là một HTTP proxy hiệu năng cao, Little Tunnel chỉ xử lý những gói tin đến website mà bạn cấu hình, các gói tin còn lại sẽ lưu thông bình thường để tối ưu hiệu năng. Các gói tin sẽ đi trực tiếp từ máy tính của bạn đến website của bạn, không thông qua bất kỳ máy chủ VPN/Proxy thứ ba nào khác, từ đó đảm bảo tốc độ truy cập nhanh cho bạn.
+- **Nhanh hơn**: Little Tunnel sử dụng [LittleProxy](https://github.com/adamfisk/LittleProxy) - đây là một HTTP proxy hiệu năng cao, Little Tunnel chỉ xử lý những gói tin đến website mà bạn cấu hình, các gói tin còn lại sẽ lưu thông bình thường để tối ưu hiệu năng. Các gói tin sẽ đi trực tiếp từ máy tính của bạn đến website của bạn, không thông qua bất kỳ máy chủ VPN/Proxy thứ ba nào khác, từ đó đảm bảo tốc độ truy cập nhanh cho bạn.
 - **Ổn định, an toàn và miễn phí**: Các dịch vụ VPN/Proxy thường không ổn định và chậm. Nếu bạn muốn dùng ổn định và nhanh, bạn sẽ phải trả phí cho dịch vụ. Little Tunnel luôn miễn phí và nguồn mở. Little Tunnel chạy trên máy tính của chính bạn, nên đảm bảo tính ổn định và nhanh.
 - **Dễ dàng sử dụng**: Little Tunnel được tạo ra với tiêu chí hiệu quả nhưng vẫn phải thật dễ sử dụng. Tài liệu hướng dẫn đi kèm đầy đủ rõ ràng.
 
